@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">snooker counter</string>
+    <string name="miss">Miss</string>
+    <string name="penalty">Foul</string>
+    <string name="gamepl1">0</string>
+    <string name="gamepl2">0</string>
+    <string name="countpl1">0</string>
+    <string name="countpl2">0</string>
+    <string name="dots">:</string>
+    <string name="dots2">:</string>
+    <string name="dots3">:</string>
+    <string name="clear">clear</string>
+    <string name="new_game">New Game</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="info">info</string>
+    <string name="p1_p2">0</string>
+    <string name="p2_p1">0</string>
+    <string name="ontable">147</string>
+    <string name="info2">info2</string>
+    <string name="undo">undo</string>
+    <string name="foul">Foul</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="cancel" />
+</resources>

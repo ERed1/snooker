@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002927521192",
+    "firebase_url": "https://snooker-ee18b.firebaseio.com",
+    "project_id": "snooker-ee18b",
+    "storage_bucket": "snooker-ee18b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002927521192:android:91d5f8e0d2389708ba319d",
+        "android_client_info": {
+          "package_name": "com.example.snooker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002927521192-o9ltkjj5h29qtj80m6f8fa44evcg5qah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snooker",
+            "certificate_hash": "a023503e2b818295fcf3de02287b0ba22b7e0f7d"
+          }
+        },
+        {
+          "client_id": "1002927521192-baobjq23onob0bnrm284mghqmhn3me2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ekN7jgwtboqBUJtIvvah31kL40BsXfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002927521192-baobjq23onob0bnrm284mghqmhn3me2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
